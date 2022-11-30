@@ -1,9 +1,9 @@
 using MedicalService.Driver;
 using MedicalService.Page;
 
-namespace MedicalService
+namespace MedicalService.Tests
 {
-    public class Tests
+    public class MedicalTests
     {
         LoginPage loginPage;
         MedicalPage medicalPage;
